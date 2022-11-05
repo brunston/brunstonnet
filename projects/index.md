@@ -12,4 +12,6 @@ Satellite Flight Heritage
 Publications
 ============
 
-*Future-Proof Mission Control Systems: Leveraging Agnostic Design for Autonomous and Event-Driven Satellite Operations*. Lucas Brémond, Brunston Poon, Gauthier Damien. 2022. Published by the International Astronautical Federation, IAC-22,B6,5,7,x68666. Presented at International Astronautical Congress 2022, Paris.
+[*Future-Proof Mission Control Systems: Leveraging Agnostic Design for Autonomous and Event-Driven Satellite Operations*](../assets/IAC-22-B6-5-7-x68666-paper.pdf). **Lucas Brémond, Brunston Poon, Gauthier Damien** (2022). Published by the International Astronautical Federation, IAC-22,B6,5,7,x68666.
+
+[Presented](../assets/IAC-22-B6-5-7-x68666-presentation.pdf) at International Astronautical Congress 2022, Paris.

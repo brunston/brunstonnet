@@ -3,7 +3,7 @@ layout: default
 title: "Brunston Poon"
 ---
 
-<img src="images/brunston.jpeg" alt="Brunston" style="width: 250px;"/>
+<img src="assets/brunston.jpeg" alt="Brunston" style="width: 250px;"/>
 
 Brunston Poon
 =============

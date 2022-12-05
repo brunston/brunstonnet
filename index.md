@@ -22,7 +22,8 @@ Additional Links
 Upcoming Carillon Concerts
 ==========================
 
-* Stay tuned!
+* 2022-12-31, Midnight New Year's Concert, UC Berkeley Sather Tower, Berkeley, California
+* 2022-12-11, Holiday Concert, UC Berkeley Sather Tower, Berkeley, California
 
 Recent Carillon Concerts
 ========================

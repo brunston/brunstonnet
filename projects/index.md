@@ -6,8 +6,9 @@ title: "projects"
 Satellite Flight Heritage
 =========================
 
-* **Loft Orbital** YAM-3, launched 2021-06-30
-* **Loft Orbital** YAM-2, launched 2021-06-30
+* **YAM-5** (Loft Orbital), launched 2023-01-03 (operational)
+* **YAM-3** (Loft Orbital), launched 2021-06-30 (operational)
+* **YAM-2** (Loft Orbital), launched 2021-06-30 (inactive)
 
 Publications
 ============

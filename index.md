@@ -8,7 +8,7 @@ title: "Brunston Poon"
 Brunston Poon
 =============
 
-Software Engineer, **[Loft Orbital](https://www.loftorbital.com/)** \| Associate Carillonist, **[UC Berkeley](https://music.berkeley.edu/sather-tower-carillon/)**
+Software Engineer, **[Loft Orbital](https://www.loftorbital.com/)** \| Assistant Carillonist, **[UC Berkeley](https://music.berkeley.edu/sather-tower-carillon/)**
 
 * B.S. Electrical Engineering and Computer Science, UC Berkeley (2020)
 * Carillonneur Member, Guild of Carillonneurs in North America (advancement year 2020)
@@ -22,12 +22,11 @@ Additional Links
 Upcoming Carillon Concerts
 ==========================
 
-* 2022-12-31, Midnight New Year's Concert, UC Berkeley Sather Tower, Berkeley, California
-* 2022-12-11, Holiday Concert, UC Berkeley Sather Tower, Berkeley, California
-
 Recent Carillon Concerts
 ========================
 
+* 2022-12-31, Midnight New Year's Concert, UC Berkeley Sather Tower, Berkeley, California
+* 2022-12-11, Holiday Concert, UC Berkeley Sather Tower, Berkeley, California
 * [2022-10-30, Notre-Dame, Villefranche-de-Rouergue, Aveyron, Occitanie, France](https://villefranche-de-rouergue.fr/agenda/concert-de-carillon-3/)
 * 2022-10-23, Notre-Dame-de-la-Drèche, Albi (Tarn), France
 * [2022-10-09: Journées nationale du carillon, Basilique Saint-Sernin, Toulouse, France](https://actu.fr/occitanie/toulouse_31555/toulouse-voici-pourquoi-les-cloches-de-saint-sernin-vont-sonner-trois-quarts-d-heure-dimanche_54358170.html)
@@ -37,6 +36,7 @@ Recent Carillon Concerts
 Past
 ====
 
+* **UC Berkeley**, Associate Carillonist, 2021-2023
 * **Loft Orbital**, Software Engineering Intern, 2020 SU
 * **Google**, Software Engineering Intern, YouTube Gaming, 2019 SU
 * **Boeing** Commercial Airplanes, Cybersecurity Intern, 2018 SU

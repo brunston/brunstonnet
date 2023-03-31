@@ -22,9 +22,14 @@ Additional Links
 Upcoming Carillon Concerts
 ==========================
 
+* 2023-04-02, UC Berkeley Sather Tower, Berkeley, California
+
 Recent Carillon Concerts
 ========================
 
+* 2023-03-26, UC Berkeley Sather Tower, Berkeley, California
+* [2023-03-12, Notre-Dame, Villefranche-de-Rouergue (Aveyron), France](https://www.centrepresseaveyron.fr/2023/03/07/concert-de-carillon-avec-brunston-poon-carillonneur-americain-11044816.php)
+* 2023-02-12, UC Berkeley Sather Tower, Berkeley, California
 * 2022-12-31, Midnight New Year's Concert, UC Berkeley Sather Tower, Berkeley, California
 * 2022-12-11, Holiday Concert, UC Berkeley Sather Tower, Berkeley, California
 * [2022-10-30, Notre-Dame, Villefranche-de-Rouergue, Aveyron, Occitanie, France](https://villefranche-de-rouergue.fr/agenda/concert-de-carillon-3/)
@@ -40,12 +45,11 @@ Past
 * **Loft Orbital**, Software Engineering Intern, 2020 SU
 * **Google**, Software Engineering Intern, YouTube Gaming, 2019 SU
 * **Boeing** Commercial Airplanes, Cybersecurity Intern, 2018 SU
-* The [mtwshngtn](https://mtwshngtn.github.io/) project
+* The **[mtwshngtn](https://mtwshngtn.github.io/)** project
 * **SpaceX**, Avionics Intern, Avionics Test Engineering, 2018 SP
-* Co-founder, [Fanalytical Solutions](http://fanalyticalsolutions.com), 2017-2019
-* Former VP of [CalSTAR](https://stars.berkeley.edu) high-power rocketry @ UC Berkeley, 2017-2018
+* Co-founder, **[Fanalytical Solutions](http://fanalyticalsolutions.com)**, 2017-2019
+* **[CalSTAR](https://stars.berkeley.edu) high-power rocketry @ UC Berkeley**, VP / Payload Co-Lead 2017-2018
 * **Lockheed Martin** SSC Advanced Technology Center, Software / Electrical Engineering Intern, 2017 SU
 * **Lockheed Martin** Space Systems Company, Systems Engineering Intern, 2016 SU
-* [stellarPYL](http://brunston.net/stellarpyl) - stellar spectra reduction and analysis software in python
-
-Alumnus of St. Paul's School, Form of 2016.
+* **[stellarPYL](http://brunston.net/stellarpyl)** - stellar spectra reduction and analysis software in python
+* **St. Paul's School**, Form of 2016.

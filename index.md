@@ -22,7 +22,7 @@ Additional Links
 Upcoming Carillon Concerts
 ==========================
 
-* 2023-04-02, UC Berkeley Sather Tower, Berkeley, California
+* 2023-05-07, UC Berkeley Sather Tower, Berkeley, California
 
 Selected Recent Carillon Concerts
 ========================

@@ -1,32 +1,33 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>{{ page.title }}</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
-	<body>
-		<nav>
-            <img src="/assets/albatrossb.png" alt="brunston_albatross" style="width:125px;height:42px;">
-    		<ul>
-    		    <li><a href="/">about</a></li>
-        	    <li><a href="/contact">contact</a></li>
-				<li><a href="/carillon">carillon</a></li>
-				<li><a href="/projects">projects</a></li>
-    		    <li><a href="https://albatrossian.xyz/">the albatrossian</a></li>
-                <li><a href="http://bread.brunston.io/">bread</a></li>
-            </ul>
-		</nav>
-		<div class="container" style="text-align: justify">
 
-    {{content}}
+<head>
+	<title>{{ page.title }}</title>
+	<!-- link to main stylesheet -->
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
 
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="https://brunston.net/">© 2016-2023 Brunston Poon</a>
-			    <li><a href="/pgp">pgp</a>
-            </ul>
-		</footer>
-	</body>
+<body>
+	<nav>
+		<img src="/assets/albatrossb.png" alt="brunston_albatross" style="width:125px;height:42px;">
+		<ul>
+			<li><a href="/">about</a></li>
+			<li><a href="/contact">contact</a></li>
+			<li><a href="/carillon">carillon</a></li>
+			<li><a href="/projects">satellites & publications</a></li>
+			<li><a href="https://albatrossian.xyz/">the albatrossian</a></li>
+		</ul>
+	</nav>
+	<div class="container" style="text-align: justify">
+
+		{{content}}
+
+	</div><!-- /.container -->
+	<footer>
+		<ul>
+			<li><a href="https://brunston.net/">© 2016-2023 Brunston Poon</a>
+		</ul>
+	</footer>
+</body>
+
 </html>

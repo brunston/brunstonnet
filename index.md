@@ -22,12 +22,17 @@ Additional Links
 Upcoming Carillon Concerts
 ==========================
 
-* 2023-05-07, UC Berkeley Sather Tower, Berkeley, California
+* [2023-08-12, 9th Berkeley Carillon Festival, UC Berkeley Sather Tower, Berkeley, California](https://bells.berkeley.edu/#events)
 
 Selected Recent Carillon Concerts
 ========================
 
 * [A full listing of past carillon concerts is available here.](https://brunston.net/carillon/)
+* [2023-08-06, UC Santa Barbara Storke Tower, Santa Barabara, California](https://campuscalendar.ucsb.edu/event/summer_carillon_brunston_poon080623?utm_campaign=widget&utm_medium=widget&utm_source=UC+Santa+Barbara) ([program](../assets/2023-08-06_ucsb_recital_program_brunston_poon_and_berkeley_carillon_guild.pdf))
+* 2023-07-30, UC Berkeley Sather Tower, Berkeley, California (with Erika Anderson, Anna Zhao, and Michelle Pan)
+* 2023-07-23, UC Berkeley Sather Tower, Berkeley, California (with Anna Zhao and Michelle Pan)
+* [2023-06-14, 80th Annual Congress of the Guild of Carillonneurs in North America, St. Stephen's Church, Cohasset, Massachusetts](https://www.gcna.org/2023-Congress) ([program](https://www.gcna.org/resources/Documents/2023-Congress-Cohasset-Program-6_9_23_corrected.pdf))
+* 2023-06-04, UC Berkeley Sather Tower, Berkeley, California (with Peter Trost and Anna Zhao)
 * [2023-03-12, Notre-Dame, Villefranche-de-Rouergue (Aveyron), France](https://www.centrepresseaveyron.fr/2023/03/07/concert-de-carillon-avec-brunston-poon-carillonneur-americain-11044816.php)
 * 2022-12-31, Midnight New Year's Concert, UC Berkeley Sather Tower, Berkeley, California
 * 2022-12-11, Holiday Concert, UC Berkeley Sather Tower, Berkeley, California

@@ -10,7 +10,7 @@ Upcoming Concert Schedule
 Past Concert Schedule
 =====================
 
-* [2023-08-06, UC Santa Barbara Storke Tower, Santa Barabara, California](https://campuscalendar.ucsb.edu/event/summer_carillon_brunston_poon080623?utm_campaign=widget&utm_medium=widget&utm_source=UC+Santa+Barbara) ([program](../assets/2023-08-06_ucsb_recital_program_brunston_poon_and_berkeley_carillon_guild.pdf))
+* [2023-08-06, UC Santa Barbara Storke Tower, Santa Barbara, California (with Anna Zhao, Michelle Pan, and Timothy Yang)](https://campuscalendar.ucsb.edu/event/summer_carillon_brunston_poon080623?utm_campaign=widget&utm_medium=widget&utm_source=UC+Santa+Barbara) ([program](../assets/2023-08-06_ucsb_recital_program_brunston_poon_and_berkeley_carillon_guild.pdf))
 * 2023-07-30, UC Berkeley Sather Tower, Berkeley, California (with Erika Anderson, Anna Zhao, and Michelle Pan)
 * 2023-07-23, UC Berkeley Sather Tower, Berkeley, California (with Anna Zhao and Michelle Pan)
 * 2023-07-15, UC Berkeley Sather Tower, Berkeley, California (with Anna Zhao and Erika Anderson)

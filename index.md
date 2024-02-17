@@ -13,12 +13,13 @@ Space Infrastructure Software Engineer, **[Loft Orbital](https://www.loftorbital
 * *Carillonneur titulaire* de Castelnaudary, France
 * B.S. Electrical Engineering and Computer Science, UC Berkeley (2020)
 * Carillonneur Member, Guild of Carillonneurs in North America (advancement year 2020)
-* For creative works, visit [The Albatrossian](http://albatrossian.xyz)
 
 Additional Links
 ================
 
 [LinkedIn](https://linkedin.com/in/brunston) - [Github](https://github.com/brunston)
+
+[YouTube](https://www.youtube.com/@brunston) - [Instagram](https://www.instagram.com/brunstonbrunston/)
 
 Upcoming Carillon Concerts
 ==========================

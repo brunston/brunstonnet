@@ -5,11 +5,21 @@ title: "Carillon"
 
 Upcoming Concert Schedule
 =========================
-* [2023-08-12, 9th Berkeley Carillon Festival, UC Berkeley Sather Tower, Berkeley, California](https://bells.berkeley.edu/#events)
+* 2024-03-10, Collégiale Saint-Michel, Castelnaudary (Aude), France
+* 2024-04-14, Collégiale Saint-Michel, Castelnaudary (Aude), France
 
 Past Concert Schedule
 =====================
 
+* [2024-01-21, UC Berkeley Sather Tower, Berkeley, California (with Michelle Pan, Erika Anderson, Abby Pan, and Anna Zhao)](https://www.instagram.com/reel/C2YDdU9yrUE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+* 2024-01-14, UC Berkeley Sather Tower, Berkeley, California (with Erika Anderson)
+* 2024-01-07, UC Berkeley Sather Tower, Berkeley, California
+* [2024-01-01, New Year's Day Midnight Concert, UC Berkeley Sather Tower, Berkeley, California (with Peter Trost)](https://www.instagram.com/reel/C1laxQJr05Z/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+* 2023-11-26, Collégiale Saint-Michel, Castelnaudary (Aude), France
+* [2023-10-22, Notre-Dame, Villefranche-de-Rouergue (Aveyron), France](http://amiscarillonvfr.blogspot.com/2023/10/concert-dimanche-22-octobre-15h-17h.html)
+* 2023-09-03, UC Berkeley Sather Tower, Berkeley, California (with Anna Zhao)
+* 2023-08-27, UC Berkeley Sather Tower, Berkeley, California (with Michelle Pan, Anna Zhao, Peter Trost, and Erika Anderson)
+* [2023-08-12, 9th Berkeley Carillon Festival, UC Berkeley Sather Tower, Berkeley, California](https://bells.berkeley.edu/#events)
 * [2023-08-06, UC Santa Barbara Storke Tower, Santa Barbara, California (with Anna Zhao, Michelle Pan, and Timothy Yang)](https://campuscalendar.ucsb.edu/event/summer_carillon_brunston_poon080623?utm_campaign=widget&utm_medium=widget&utm_source=UC+Santa+Barbara) ([program](../assets/2023-08-06_ucsb_recital_program_brunston_poon_and_berkeley_carillon_guild.pdf))
 * 2023-07-30, UC Berkeley Sather Tower, Berkeley, California (with Erika Anderson, Anna Zhao, and Michelle Pan)
 * 2023-07-23, UC Berkeley Sather Tower, Berkeley, California (with Anna Zhao and Michelle Pan)

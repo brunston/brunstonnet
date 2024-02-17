@@ -8,26 +8,33 @@ title: "Brunston Poon"
 Brunston Poon
 =============
 
-Software Engineer, **[Loft Orbital](https://www.loftorbital.com/)** \| Assistant Carillonist, **[UC Berkeley](https://music.berkeley.edu/sather-tower-carillon/)**
+Space Infrastructure Software Engineer, **[Loft Orbital](https://www.loftorbital.com/)** \| Assistant Carillonist, **[UC Berkeley](https://music.berkeley.edu/sather-tower-carillon/)**
 
+* *Carillonneur titulaire* de Castelnaudary, France
 * B.S. Electrical Engineering and Computer Science, UC Berkeley (2020)
 * Carillonneur Member, Guild of Carillonneurs in North America (advancement year 2020)
-* For creative works, visit [The Albatrossian](http://albatrossian.xyz)
 
 Additional Links
 ================
 
 [LinkedIn](https://linkedin.com/in/brunston) - [Github](https://github.com/brunston)
 
+[YouTube](https://www.youtube.com/@brunston) - [Instagram](https://www.instagram.com/brunstonbrunston/)
+
 Upcoming Carillon Concerts
 ==========================
 
-* [2023-08-12, 9th Berkeley Carillon Festival, UC Berkeley Sather Tower, Berkeley, California](https://bells.berkeley.edu/#events)
+* 2024-03-10, Collégiale Saint-Michel, Castelnaudary (Aude), France
+* 2024-04-14, Collégiale Saint-Michel, Castelnaudary (Aude), France
 
 Selected Recent Carillon Concerts
 ========================
 
 * [A full listing of past carillon concerts is available here.](https://brunston.net/carillon/)
+* [2024-01-01, New Year's Day Midnight Concert, UC Berkeley Sather Tower, Berkeley, California](https://www.instagram.com/reel/C1laxQJr05Z/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+* 2023-11-26, Collégiale Saint-Michel, Castelnaudary (Aude), France
+* [2023-10-22, Notre-Dame, Villefranche-de-Rouergue (Aveyron), France](http://amiscarillonvfr.blogspot.com/2023/10/concert-dimanche-22-octobre-15h-17h.html)
+* [2023-08-12, 9th Berkeley Carillon Festival, UC Berkeley Sather Tower, Berkeley, California](https://bells.berkeley.edu/#events)
 * [2023-08-06, UC Santa Barbara Storke Tower, Santa Barbara, California](https://campuscalendar.ucsb.edu/event/summer_carillon_brunston_poon080623?utm_campaign=widget&utm_medium=widget&utm_source=UC+Santa+Barbara) ([program](../assets/2023-08-06_ucsb_recital_program_brunston_poon_and_berkeley_carillon_guild.pdf))
 * 2023-07-30, UC Berkeley Sather Tower, Berkeley, California (with Erika Anderson, Anna Zhao, & Michelle Pan)
 * [2023-06-14, GCNA Congress 2023, St. Stephen's Church, Cohasset, Massachusetts (with Erika Anderson)](https://www.gcna.org/2023-Congress) ([program](https://www.gcna.org/resources/Documents/2023-Congress-Cohasset-Program-6_9_23_corrected.pdf))

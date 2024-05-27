@@ -23,14 +23,14 @@ Additional Links
 
 Upcoming Carillon Concerts
 ==========================
-
-* 2024-03-10, Collégiale Saint-Michel, Castelnaudary (Aude), France
-* 2024-04-14, Collégiale Saint-Michel, Castelnaudary (Aude), France
+To be announced...
 
 Selected Recent Carillon Concerts
 ========================
 
 * [A full listing of past carillon concerts is available here.](https://brunston.net/carillon/)
+* [2025-05-18, Notre-Dame, Villefranche-de-Rouergue](https://www.ladepeche.fr/2024/05/16/concert-de-jazz-au-carillon-de-la-collegiale-notre-dame-samedi-11954060.php)
+* 2024-04-14, Collégiale Saint-Michel, Castelnaudary (Aude), France
 * [2024-01-01, New Year's Day Midnight Concert, UC Berkeley Sather Tower, Berkeley, California](https://www.instagram.com/reel/C1laxQJr05Z/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 * 2023-11-26, Collégiale Saint-Michel, Castelnaudary (Aude), France
 * [2023-10-22, Notre-Dame, Villefranche-de-Rouergue (Aveyron), France](http://amiscarillonvfr.blogspot.com/2023/10/concert-dimanche-22-octobre-15h-17h.html)

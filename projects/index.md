@@ -6,6 +6,7 @@ title: "projects"
 Satellite Flight Heritage
 =========================
 
+* **YAM-6** (Loft Orbital), launched 2024-03-04
 * **YAM-5** (Loft Orbital), launched 2023-01-03
 * **YAM-3** (Loft Orbital), launched 2021-06-30
 * **YAM-2** (Loft Orbital), launched 2021-06-30
@@ -13,11 +14,11 @@ Satellite Flight Heritage
 Publications
 ============
 
-[*SatDevOps: A Novel Automated Satellite Operations Methodology*]. **Brunston Poon, Lucas Brémond, Caleb MacLachlan, Leon Stepan** (2023). Published by Mohammed Bin Rashid Space Centre (MBRSC) on behalf of SpaceOps, SpaceOps 2023 ID 291.
+[*SatDevOps: A Novel Automated Satellite Operations Methodology*](../assets/SpaceOps-2023_Poon-et-al_SatDevOps-A-Novel-Automated-Satellite-Operations-Methodology.pdf). **Brunston Poon, Lucas Brémond, Caleb MacLachlan, Leon Stepan** (2023). Published by Mohammed Bin Rashid Space Centre (MBRSC) on behalf of SpaceOps, SpaceOps 2023 ID 291.
 
 Presented at SpaceOps 2023, Dubai.
 
-[*Lessons Learned from Automating Heterogeneous Spacecraft Systems*]. **Lucas Brémond, Etienne Vincent, Gauthier Damien, Caleb MacLachlan, Brunston Poon** (2023). Published by Mohammed Bin Rashid Space Centre (MBRSC) on behalf of SpaceOps, SpaceOps 2023 ID 233.
+[*Lessons Learned from Automating Heterogeneous Spacecraft Systems*](../assets/SpaceOps-2023_Brémond-et-al_Lessons-Learned-from-Automating-Heterogenous-Spacecraft-Systems.pdf). **Lucas Brémond, Etienne Vincent, Gauthier Damien, Caleb MacLachlan, Brunston Poon** (2023). Published by Mohammed Bin Rashid Space Centre (MBRSC) on behalf of SpaceOps, SpaceOps 2023 ID 233.
 
 Presented at SpaceOps 2023, Dubai.
 

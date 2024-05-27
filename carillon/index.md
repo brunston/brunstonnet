@@ -5,12 +5,14 @@ title: "Carillon"
 
 Upcoming Concert Schedule
 =========================
-* 2024-03-10, Collégiale Saint-Michel, Castelnaudary (Aude), France
-* 2024-04-14, Collégiale Saint-Michel, Castelnaudary (Aude), France
+To be announced...
 
 Past Concert Schedule
 =====================
 
+* [2025-05-18, Notre-Dame, Villefranche-de-Rouergue](https://www.ladepeche.fr/2024/05/16/concert-de-jazz-au-carillon-de-la-collegiale-notre-dame-samedi-11954060.php)
+* 2024-05-12, Collégiale Saint-Michel, Castelnaudary (Aude), France
+* 2024-04-14, Collégiale Saint-Michel, Castelnaudary (Aude), France
 * [2024-01-21, UC Berkeley Sather Tower, Berkeley, California (with Michelle Pan, Erika Anderson, Abby Pan, and Anna Zhao)](https://www.instagram.com/reel/C2YDdU9yrUE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 * 2024-01-14, UC Berkeley Sather Tower, Berkeley, California (with Erika Anderson)
 * 2024-01-07, UC Berkeley Sather Tower, Berkeley, California

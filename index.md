@@ -10,7 +10,7 @@ Brunston Poon
 
 Space Infrastructure Software Engineer, **[Loft Orbital](https://www.loftorbital.com/)** \| Assistant Carillonist, **[UC Berkeley](https://music.berkeley.edu/sather-tower-carillon/)**
 
-* *Carillonneur titulaire* de Castelnaudary, France
+* *Carillonneur* à Castelnaudary, France
 * B.S. Electrical Engineering and Computer Science, UC Berkeley (2020)
 * Carillonneur Member, Guild of Carillonneurs in North America (advancement year 2020)
 
@@ -29,7 +29,11 @@ Selected Recent Carillon Concerts
 ========================
 
 * [A full listing of past carillon concerts is available here.](https://brunston.net/carillon/)
-* [2025-05-18, Notre-Dame, Villefranche-de-Rouergue](https://www.ladepeche.fr/2024/05/16/concert-de-jazz-au-carillon-de-la-collegiale-notre-dame-samedi-11954060.php)
+* 2024-08-25, Fête du Cassoulet, Collégiale Saint-Michel, Castelnaudary (Aude), France
+* [2024-07-28, F'Estival Carillons en 31, Basilique Saint-Sernin, Toulouse, France, with Michelle Pan](https://www.carillonsenpaysdoc.fr/fr/f-estival-carillons-en-31-2024)
+* [2024-07-27, Villefranche-de-Rouergue, with Michelle Pan](https://www.carillonsenpaysdoc.fr/fr/agenda/2024-07-villefranche-de-rouergue-concert-de-carillon)
+* [2024-07-30, 10th Berkeley Carillon Festival celebrating Jeff Davis, UC Berkeley Sather Tower, Berkeley, California](https://bells.studentorg.berkeley.edu/2024/06/29/festival/) ([program](https://drive.google.com/file/d/1lg1oXuK03_zxvI4OzPNhBb88hw9WIkGg/view))
+* [2024-05-18, Notre-Dame, Villefranche-de-Rouergue](https://www.ladepeche.fr/2024/05/16/concert-de-jazz-au-carillon-de-la-collegiale-notre-dame-samedi-11954060.php)
 * 2024-04-14, Collégiale Saint-Michel, Castelnaudary (Aude), France
 * [2024-01-01, New Year's Day Midnight Concert, UC Berkeley Sather Tower, Berkeley, California](https://www.instagram.com/reel/C1laxQJr05Z/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 * 2023-11-26, Collégiale Saint-Michel, Castelnaudary (Aude), France

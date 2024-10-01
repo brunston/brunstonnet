@@ -6,7 +6,8 @@ title: "projects"
 Satellite Flight Heritage
 =========================
 
-* **YAM-6** (Loft Orbital), launched 2024-03-04
+* **YAM-7** (Loft Orbital), launched 2024-08-16 (Commissioning Lead)
+* **YAM-6** (Loft Orbital), launched 2024-03-04 (Commissioning Flight Director)
 * **YAM-5** (Loft Orbital), launched 2023-01-03
 * **YAM-3** (Loft Orbital), launched 2021-06-30
 * **YAM-2** (Loft Orbital), launched 2021-06-30

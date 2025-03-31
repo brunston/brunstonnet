@@ -8,7 +8,7 @@ title: "Brunston Poon"
 Brunston Poon
 =============
 
-Space Infrastructure Software Engineer, **[Loft Orbital](https://www.loftorbital.com/)** \| Assistant Carillonist, **[UC Berkeley](https://music.berkeley.edu/sather-tower-carillon/)**
+Space Infrastructure Lead, **[Loft Orbital](https://www.loftorbital.com/)** \| Assistant Carillonist, **[UC Berkeley](https://music.berkeley.edu/sather-tower-carillon/)**
 
 * *Carillonneur* à Castelnaudary, France
 * B.S. Electrical Engineering and Computer Science, UC Berkeley (2020)

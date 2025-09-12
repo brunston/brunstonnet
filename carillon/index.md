@@ -9,6 +9,12 @@ To be announced...
 
 Past Concert Schedule
 =====================
+* 2025-08-24, Fête du Cassoulet, Collégiale Saint-Michel, Castelnaudary (Aude), France
+* 2025-08-15, [Festival International de Carillon de Perpignan, France](https://ouillade.eu/agenda/perpignan-vendredi-15-aout-18h-concert-de-cloture-du-festival-de-carillon-avec-brunston-poon-carillonneur-americain/322477)
+* 2025-08-03, [Festival International des Carillons de Côte D'Or, Dijon, France, with Adrien Parret as "Les Quadrillonneurs"](https://en.destinationdijon.com/events/festival-international-des-carillons-de-cote-dor/)
+* 2025-08-01, [Festival International des Carillons de Côte D'Or, Selongey (near Dijon), France](https://www.bienpublic.com/pour-sortir/loisirs/Concert-musique/Autres-styles-musicaux/Bourgogne/Cote-d-or/Selongey/2025/08/01/Festival-international-des-carillons-de-cote-d-or)
+* 2025-07-17, [Pully (near Lausanne), Switzerland](https://www.carillons.ch/blog/event/recital-par-le-carillonneur-americain-poon-brunston/)
+* 2024-08-25, Fête du Cassoulet, Collégiale Saint-Michel, Castelnaudary (Aude), France
 * [2024-07-28, F'Estival Carillons en 31, Basilique Saint-Sernin, Toulouse, France, with Michelle Pan](https://www.carillonsenpaysdoc.fr/fr/f-estival-carillons-en-31-2024)
 * [2024-07-27, Villefranche-de-Rouergue, with Michelle Pan](https://www.carillonsenpaysdoc.fr/fr/agenda/2024-07-villefranche-de-rouergue-concert-de-carillon)
 * [2025-05-18, Notre-Dame, Villefranche-de-Rouergue](https://www.ladepeche.fr/2024/05/16/concert-de-jazz-au-carillon-de-la-collegiale-notre-dame-samedi-11954060.php)
